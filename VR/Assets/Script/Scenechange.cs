@@ -14,7 +14,6 @@ public class Scenechange : MonoBehaviour {
 	void Update () {
 		
 	}
-
 	public void loadScene(int SceneIndex){
 
 		SceneManager.LoadScene (SceneIndex);
