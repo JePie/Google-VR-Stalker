@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Scenechange.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Wander.cs">
     <Files>
-      <File FileName="Assets\Script\Quit.cs" Line="16" Column="9" />
+      <File FileName="Assets\Script\Quit.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Scenechange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\seePlayer.cs" Line="23" Column="55" />
+      <File FileName="Assets\Script\EnemyClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BasicEnemy.cs" Line="21" Column="55" />
+      <File FileName="Assets\Script\Wander.cs" Line="45" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -51,9 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Chibi Mummy\Misc\Scripts\buttonControl_script.cs" />
+     <Compile Include="Assets\Chibi Mummy\Misc\Scripts\CharMovement.cs" />
+     <Compile Include="Assets\Script\BasicEnemy.cs" />
+     <Compile Include="Assets\Script\Delay.cs" />
+     <Compile Include="Assets\Script\EnemyClass.cs" />
      <Compile Include="Assets\Script\Quit.cs" />
      <Compile Include="Assets\Script\Scenechange.cs" />
+     <Compile Include="Assets\Script\seePlayer.cs" />
+     <Compile Include="Assets\Script\Wander.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Chibi Mummy\readme.txt" />
      <None Include="Assets\Tim&apos;s Assets\Doors\Shader\BloodyDoor.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
@@ -86,10 +94,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Users/Jack huang/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/Tech/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/Jack huang/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Tech/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

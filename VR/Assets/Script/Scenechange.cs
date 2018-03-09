@@ -14,7 +14,13 @@ public class Scenechange : MonoBehaviour {
 	void Update () {
 		
 	}
-	public void loadScene(int SceneIndex){
+
+    void OnTriggerEnter(Collider c)
+    {
+        if (c.gameObject.tag == "Player")
+            LoadScene(2);
+    }
+    public void LoadScene(int SceneIndex){
 
 		SceneManager.LoadScene (SceneIndex);
 	}
